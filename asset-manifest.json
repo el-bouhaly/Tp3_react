@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/el-bouhaly/Tp3-react/static/css/main.51f99c2f.css",
+    "main.js": "/el-bouhaly/Tp3-react/static/js/main.58ba89ad.js",
+    "static/js/787.7eab8dd4.chunk.js": "/el-bouhaly/Tp3-react/static/js/787.7eab8dd4.chunk.js",
+    "static/media/logo.svg": "/el-bouhaly/Tp3-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/el-bouhaly/Tp3-react/index.html",
+    "main.51f99c2f.css.map": "/el-bouhaly/Tp3-react/static/css/main.51f99c2f.css.map",
+    "main.58ba89ad.js.map": "/el-bouhaly/Tp3-react/static/js/main.58ba89ad.js.map",
+    "787.7eab8dd4.chunk.js.map": "/el-bouhaly/Tp3-react/static/js/787.7eab8dd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f99c2f.css",
+    "static/js/main.58ba89ad.js"
+  ]
+}
