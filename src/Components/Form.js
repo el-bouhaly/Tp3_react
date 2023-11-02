@@ -38,7 +38,7 @@ export default function Form( {input,setInput,todos,setTodos,editTodo,setEditodo
     onChange={onInputChange}
     />
     <button className='button-add' type='submit'>
-    {editTodo ? "OK" : "Ajoute"}
+    {editTodo ? "Ajoute" : "Ajoute"}
     </button>
    </form>
   )

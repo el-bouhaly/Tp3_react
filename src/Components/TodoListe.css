@@ -21,7 +21,7 @@ align-items: center;
 .app-wrapper{
   background-color: #12343b;
 min-width: 458px;
-min-height: 650px;
+min-height: 440px;
 padding: 30px;
 box-sizing: border-box;
 border-radius: 9px;
