@@ -5,7 +5,7 @@ export default function List() {
   
   return (
     <div className='header'>
-      <h1>Tode-list</h1>
+      <h1>Todo-list</h1>
       
     </div>
   )
